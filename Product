@@ -1,0 +1,12 @@
+SELECT 
+	ProductID,
+	ProductName,
+	Price,
+
+	CASE
+		WHEN PRICE>50 THEN 'Low'
+		WHEN PRICE BETWEEN 50 AND 200 THEN 'Medium'
+		ELSE 'High'
+	END AS PriceCategory
+
+FROM dbo.products
