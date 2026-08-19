@@ -109,6 +109,7 @@ Communicate analytical findings through visualizations and presentations
 I'm always interested in connecting with other professionals, analysts, recruiters and people working in the Data Analytics / Business Intelligence space.
 
 LinkedIn: [https://www.linkedin.com/in/sagarpaul07]
+
 GitHub: [https://github.com/sagarpaul-07]
 
 ⭐ If you find any of these projects useful, feel free to explore the repository and give it a star!
