@@ -652,15 +652,14 @@ Views and clicks can be monitored alongside conversion to identify products that
 
 ## Overview
 
-![Marketing Analytics Overview]([Dashboard/Screenshot 2026-08-20 002248.png](https://github.com/sagarpaul-07/DataAnalyticsProjects/blob/ae844e1baf98d690e42063473f81e62289174182/Dashboard/Screenshot%202026-08-20%20002248.png))
-
+![Marketing Analytics Overview](Dashboard_Screenshots/Overview_Dashboard.png)
 The Overview page provides a high-level summary of marketing performance through KPIs, trends, product analysis and interactive filtering.
 
 ---
 
 ## Conversion Analysis
 
-![Conversion Analysis]([Dashboard/Screenshot 2026-08-20 002308.png](https://github.com/sagarpaul-07/DataAnalyticsProjects/blob/ae844e1baf98d690e42063473f81e62289174182/Dashboard/Screenshot%202026-08-20%20002308.png))
+![Conversion Analysis](Dashboard_Screenshots/Conversion_Analysis.png)
 
 The Conversion Analysis page evaluates customer journey performance and product-level conversion.
 
@@ -668,7 +667,7 @@ The Conversion Analysis page evaluates customer journey performance and product-
 
 ## Online Analysis
 
-![Online Analysis]([PowerBI/Dashboard_Screenshots/Online_Analysis.png)](https://github.com/sagarpaul-07/DataAnalyticsProjects/blob/ae844e1baf98d690e42063473f81e62289174182/Dashboard/Screenshot%202026-08-20%20002358.png)
+![Online Analysis](Dashboard_Screenshots/Online_Analysis.png)
 
 The Online Analysis page focuses on views, clicks, engagement and online customer behavior.
 
@@ -676,7 +675,7 @@ The Online Analysis page focuses on views, clicks, engagement and online custome
 
 ## Customer Analysis
 
-![Customer Analysis]([PowerBI/Dashboard_Screenshots/Customer_Analysis.png](https://github.com/sagarpaul-07/DataAnalyticsProjects/blob/ae844e1baf98d690e42063473f81e62289174182/Dashboard/Screenshot%202026-08-20%20002413.png))
+![Customer Analysis](Dashboard_Screenshots/Customer_Analysis.png)
 
 The Customer Analysis page combines customer ratings, reviews and sentiment analysis.
 
